@@ -1,1 +1,2 @@
 This is file changed
+changed 1 file c
